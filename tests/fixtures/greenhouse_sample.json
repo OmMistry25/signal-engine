@@ -1,0 +1,29 @@
+{
+  "jobs": [
+    {
+      "id": 12345,
+      "internal_job_id": 11111,
+      "title": "Head of IT",
+      "updated_at": "2026-05-01T12:00:00Z",
+      "requisition_id": "IT-001",
+      "location": {"name": "San Francisco, CA"},
+      "absolute_url": "https://boards.greenhouse.io/acme/jobs/12345",
+      "content": "%3Cp%3EWe%27re%20hiring%20a%20Head%20of%20IT%20to%20modernize%20our%20stack%20and%20enable%20self-service%20automation.%3C%2Fp%3E",
+      "departments": [{"id": 1, "name": "IT"}],
+      "offices": [{"id": 1, "name": "HQ"}]
+    },
+    {
+      "id": 67890,
+      "internal_job_id": 22222,
+      "title": "ServiceNow Administrator",
+      "updated_at": "2026-05-02T15:00:00Z",
+      "requisition_id": "IT-002",
+      "location": {"name": "Remote"},
+      "absolute_url": "https://boards.greenhouse.io/acme/jobs/67890",
+      "content": "%3Cp%3EManage%20our%20ServiceNow%20platform%20and%20handle%20high%20ticket%20volume.%3C%2Fp%3E",
+      "departments": [{"id": 1, "name": "IT"}],
+      "offices": [{"id": 1, "name": "HQ"}]
+    }
+  ],
+  "meta": {"total": 2}
+}

@@ -1,0 +1,19 @@
+# Greenhouse companies to poll.
+# token = greenhouse board slug (boards.greenhouse.io/{token})
+# domain = primary corp domain — feeds the account matcher
+# tier = informational for now; used for filtering once the scorer lands
+
+- token: airbnb
+  name: Airbnb
+  domain: airbnb.com
+  tier: tier_2
+
+- token: stripe
+  name: Stripe
+  domain: stripe.com
+  tier: tier_1
+
+# - token: servicenow
+#   name: ServiceNow
+#   domain: servicenow.com
+#   tier: competitor
